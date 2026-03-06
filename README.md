@@ -1,4 +1,4 @@
-# Markly — Bookmark Manager
+# Markly 
 
 A minimal, real-time bookmark manager built with Next.js, Supabase, and Tailwind CSS.
 
@@ -6,7 +6,7 @@ A minimal, real-time bookmark manager built with Next.js, Supabase, and Tailwind
 
 ---
 
-## Features
+## Features (v1)
 
 - Google OAuth login (no email/password)
 - Add and delete bookmarks (URL + title)
